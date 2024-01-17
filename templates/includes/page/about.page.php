@@ -16,7 +16,7 @@
       </div>
       <div class="col-md-6 p-0 h-100">
         <div class="d-flex align-items-center h-100">
-          <img src="/luminariaboutiquenws/images/team-people.jpg" alt="" style="height:35vw;" class="w-100 object-fit-cover position-md-absolute top-md-50 start-md-50 translate-middle-md" loading="lazy">
+          <img src="/boutiquelumiere/images/team-people.jpg" alt="" style="height:35vw;" class="w-100 object-fit-cover position-md-absolute top-md-50 start-md-50 translate-middle-md" loading="lazy">
         </div>
       </div>
     </div>
@@ -25,7 +25,7 @@
     <div class="row d-flex flex-row">
       <div class="col-md-6 p-0 h-100">
         <div class="d-flex align-items-center h-100">
-          <img src="/luminariaboutiquenws/images/team-valeurs.jpg" alt="" style="height:35vw;" class="w-100 object-fit-cover position-md-absolute top-md-50 start-md-50 translate-middle-md" loading="lazy">
+          <img src="/boutiquelumiere/images/team-valeurs.jpg" alt="" style="height:35vw;" class="w-100 object-fit-cover position-md-absolute top-md-50 start-md-50 translate-middle-md" loading="lazy">
         </div>
     </div>
     <div class="col-md-6 justify-content-center border-start border-primary text-center d-flex flex-column align-items-center px-lg-6 px-4 py-lg-7 py-4" style="height:35vw;">

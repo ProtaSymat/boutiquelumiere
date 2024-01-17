@@ -22,7 +22,7 @@ use Mathys\Controller\LoginController;
                                 <?php endif; ?>
 
                                 <div class="text-center">
-                                    <img src="/luminariaboutiquenws/images/luminaria-logo.png"
+                                    <img src="/boutiquelumiere/images/luminaria-logo.png"
                                         style="width: 185px;" alt="logo">
                                     <h4 class="mt-1 mb-5 pb-1">Rejoins l'équipe de Luminaria</h4>
                                 </div>
